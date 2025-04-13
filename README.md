@@ -2,9 +2,12 @@
 ## DA-10 Proyecto de analisis de videos de publicidad de una agencia para storytelling con datos
 
 Un grupo de emprendedores ha decidido abrir un pequeño café atendido por robots en Los Ángeles. El proyecto es prometedor pero caro, así que los emprendedores deciden intentar atraer inversionistas. 
-Los inversionistas están interesados en las condiciones actuales del mercado, ¿será este negocio capaz de mantener tu éxito cuando el boom de los camareros robot desaparezca?
+Los inversionistas están interesados en las condiciones actuales del mercado, ¿será este negocio capaz de mantener el éxito cuando el boom de los camareros robot desaparezca?
 
 Eres un gurú del análisis así que te han pedido que prepares un estudio de mercado. Tienes datos procedentes de fuentes abiertas sobre restaurantes en LA.
+
+## Objetivo:
+Analizar si el pequeño café atendido por robots en Los Ángeles será capaz de mantener el éxito cuando el boom de los camareros robot desaparezca
 
 ## Se planea analizar:
 - Las proporciones de los distintos tipos de establecimientos
