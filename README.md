@@ -7,9 +7,9 @@ Los inversionistas están interesados en las condiciones actuales del mercado, �
 Eres un gurú del análisis así que te han pedido que prepares un estudio de mercado. Tienes datos procedentes de fuentes abiertas sobre restaurantes en LA.
 
 ## Se planea analizar:
-Las proporciones de los distintos tipos de establecimientos
-Caracteristicas particulares de establecimientos, en este caso se decidió trabajar con el tipo cadena
-Factores como: Numero de asientos, ubicaciones
+- Las proporciones de los distintos tipos de establecimientos
+- Caracteristicas particulares de establecimientos, en este caso se decidió trabajar con el tipo cadena
+- Factores como: Numero de asientos, ubicaciones
 
 Tambien se prepara una presentación de los resultados para compartir con los inversionistas
 
